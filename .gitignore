@@ -1,0 +1,105 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+=======
+# dependencies
+node_modules/
+
+# output
+out/
+dist/
+*.tgz
+
+# code coverage
+coverage/
+*.lcov
+
+# logs
+logs/
+*.log
+report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# caches
+.eslintcache
+.cache/
+*.tsbuildinfo
+
+# IntelliJ based IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# editor backups
+*~
+*.swp
+*.swo
+
+# Finder (MacOS) folder config
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# PlatformIO
+.pio/
+
+# Arduino / embedded build artifacts
+**/build/
+*.a
+*.bin
+*.d
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.o
+
+AGENT.md
+opencode.json
