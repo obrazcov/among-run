@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/9a977201-2005-4a39-978b-a5489322ee13
 
 ## 📁 Installation
 
-1. Download the `AmongRun_v1.9.ino` file.
+1. Download the `amongrun.ino` file.
 2. Open the file in the **Arduino IDE**.
 3. Install the `LiquidCrystal` library (built-in).
 4. Select your board and port, then click **Upload**.
