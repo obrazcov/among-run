@@ -1,4 +1,5 @@
 # Among Run (LCD Arduino Edition)
+![IMG_4040](https://github.com/user-attachments/assets/e866743a-37fd-447f-a734-b4cf1a3fdab3)
 
 An action-packed, side-scrolling runner game for Arduino and 16x2 LCD displays. Dodge rocks, climb platforms, and transform into a scary monster to survive in this high-speed "Among Us" inspired adventure.
 
@@ -32,6 +33,8 @@ An action-packed, side-scrolling runner game for Arduino and 16x2 LCD displays. 
 *Note: Ensure LCD VSS, RW, and K are grounded. Connect A (Anode) to 5V via 220Ω resistor.*
 
 ## 🕹️ How to Play
+https://github.com/user-attachments/assets/9a977201-2005-4a39-978b-a5489322ee13
+
 
 1. **Start:** Press the button on the tutorial screen.
 2. **Move:** Your character runs automatically.
